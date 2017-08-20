@@ -1,0 +1,6 @@
+C:\Projects\fields\fields\bin\Debug\fields.exe.config
+C:\Projects\fields\fields\bin\Debug\fields.exe
+C:\Projects\fields\fields\bin\Debug\fields.pdb
+C:\Projects\fields\fields\obj\Debug\fields.csprojResolveAssemblyReference.cache
+C:\Projects\fields\fields\obj\Debug\fields.exe
+C:\Projects\fields\fields\obj\Debug\fields.pdb
